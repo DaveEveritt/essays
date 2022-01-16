@@ -1,7 +1,9 @@
 # Essays
 
-To hold all the essays I've written (in contrast to academic papers)
+To store essays I've written over many years on various topics (in contrast to academic papers).
 
 ## Contents
 
-To follow
+- Fine Art Degree
+  - [The I Ching (Book of Change)](fine-art-degree/i-ching/iching-essay.md)
+  - [From the Personal to the Universal](fine-art-degree/personal-universal/personal-universal-essay.md) (transcription incomplete)
