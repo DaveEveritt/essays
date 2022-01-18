@@ -12,5 +12,6 @@ To store essays I've written over many years on various topics (in contrast to a
   - [Cyberspace is the Astral Plane](cyberspace-is-the-astral-plane.md)
   - [New Media](new-media.md)
 
-- Science, social
-  - [Order, Disorder and the fineley Tuned Universe](the-finely-tuned-universe.md)
+- Science, social, psychology
+  - [Order, Disorder and the finely Tuned Universe](the-finely-tuned-universe.md)
+  - [Purpose and Purposelessness](purpose-and-purposelessness.md)
