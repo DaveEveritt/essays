@@ -1,4 +1,4 @@
-Cyberspace is the Astral Plane
+# Cyberspace is the Astral Plane
 
 I just can't see cyberspace as anything but entirely *other*. A set of dimensions where you travel by thinking, where distance and time do not exist (and no, I don’t mean those 15-hour browsing sessions) and where connections are formed by association, not location or proximity.
 

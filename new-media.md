@@ -1,4 +1,4 @@
-New media
+# New media
 
 Remember when, for about a year or so, it was called *New Media*? Who decided what name it should have? Somebody invented new media and suddenly, that was what everyone was calling it. Some people (“so early ’90s”) still are. Not wishing to be caught out, we soon learned to use the new phrase. But it wasn’t really new media then, and it isn’t now. It’s old media transformed into electronic bits. At best, it’s like the process of thought externalised. And it means that we can assemble packages of information in ways that don’t have to follow a logical sequence. Just like life.
 
