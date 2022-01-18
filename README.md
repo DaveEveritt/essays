@@ -15,3 +15,7 @@ To store essays I've written over many years on various topics (in contrast to a
 - Science, social, psychology
   - [Order, Disorder and the finely Tuned Universe](the-finely-tuned-universe.md)
   - [Purpose and Purposelessness](purpose-and-purposelessness.md)
+
+- Personal observations
+  - [Perception](perception.md)
+  - [Experience](experience.md)
