@@ -37,14 +37,14 @@ In the I Ching, Yang is represented by a single line ⚊, and Yin by a ⚋. So t
 
 |  |     |                                                             |        |          |
 |-:|:---:|:------------------------------------------------------------|-------:|:---------|
-|☰|Ch'ien|active, creative, strong, light, firm, cold, heaven          |        |FATHER    |
-|☷|K'un  |receptive, passive, 'weak'[^Kun], dark, yielding, warm, earth|        |MOTHER    |
-|☳|Chên  |thunder, movement, arousing, active, assigned to spring      |eldest  |SON       | 
-|☵|K'an  |Abyss, water, dangerous, difficult, enveloping, winter[^Kan] |second  |SON       |
-|☶|Kên   |Mountain, hard, obstinate, immoveable, resting, keeping still|youngest|SON⚹      |
-|☴|Sun   |wood, wind, bland, mild, gentle, penetrating, flexible       |eldest  |DAUGHTER  |
-|☲|Li    |fire, light, clinging, beautiful, depending, brilliant, clear|second  |DAUGHTER  |
-|☱|Tui   |lake, marsh, rain, joyful, satisfied, tranquil, complacent   |youngest|DAUGHTER**|
+|☰|Ch'ien|active, creative, strong, light, firm, cold, heaven          |        |Father    |
+|☷|K'un  |receptive, passive, 'weak'[^Kun], dark, yielding, warm, earth|        |Mother    |
+|☳|Chên  |thunder, movement, arousing, active, assigned to spring      |eldest  |Son       | 
+|☵|K'an  |Abyss, water, dangerous, difficult, enveloping, winter[^Kan] |second  |Son       |
+|☶|Kên   |Mountain, hard, obstinate, immovable, resting, keeping still |youngest|Son       |
+|☴|Sun   |wood, wind, bland, mild, gentle, penetrating, flexible       |eldest  |Daughter  |
+|☲|Li    |fire, light, clinging, beautiful, depending, brilliant, clear|second  |Daughter  |
+|☱|Tui   |lake, marsh, rain, joyful, satisfied, tranquil, complacent   |youngest|Daughter**|
 
 ⚹ varying states of movement  
 ** varying states of devotion  
