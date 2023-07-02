@@ -138,7 +138,7 @@ Modern man, having reached a moral and intellectual impasse by discarding all th
 > This essence is quite genuine.  
 > And within it is something that can be tested." (-Tao Te Ching XXI)
 
-It is out duty as human beings to search, find and test that essence.
+It is our duty as human beings to search, find and test that essence.
 
 
 
@@ -162,7 +162,7 @@ It is out duty as human beings to search, find and test that essence.
 [^TaoTeChing4]: ibid. Ch. XCII
 [^TaoTeChing5]: ibid. Ch. VII
 [^Wilhelm]: P.349 Wilhelm's translation of I Ching
-[^Blofeld]: Blodfeld's translation p. 45 (quote from author)
+[^Blofeld]: Blofeld's translation p. 45 (quote from author)
 
 
 
