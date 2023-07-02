@@ -1,15 +1,6 @@
 # Hexagrams
 
 
-
-pandoc iching-essay.md -f markdown --pdf-engine=xelatex -o iching.pdf 
-pandoc iching-essay.md -f markdown+footnotes -t latex --wrap=none --top-level-division=chapter -s -o iching.tex
-
-
-xelatex iching
-
-
-
 https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching
 
 01 ䷀	02 ䷁	03 ䷂	04 ䷃	05 ䷄	06 ䷅	07 ䷆	08 ䷇	 
