@@ -107,6 +107,21 @@ https://en.wikipedia.org/wiki/List_of_hexagrams_of_the_I_Ching
 
 
 
+
+MOVING LINES: 
+YANG to YIN:
+\begin{tikzpicture}[baseline=+1ex]\draw(0,0.325)--(0.3,0.325);\draw[line width=.02cm](0.15,0.325)circle[line width=.02cm,radius=0.035cm];\end{tikzpicture}
+
+YIN to YANG:
+\begin{tikzpicture}[baseline=+0.2ex]\draw(0,0.13)--(0.12,0.13);\draw(0.18,0.13)--(0.3,0.13);\draw[line width=.02cm](0.13,0.165)--(0.17,0.0925);\draw[line width=.02cm](0.17,0.165)--(0.13,0.0925);\end{tikzpicture}
+
+
+\begin{tikzpicture}[baseline=+0.1ex]\draw(0,0.325)--(0.3,0.325);\draw[line width=.02cm](0.15,0.325)circle[line width=.02cm,radius=0.035cm];\draw(0,0.26)--(0.12,0.26);\draw(0.18,0.26)--(0.3,0.26);\draw(0,0.195)--(0.3,0.195);\draw(0,0.13)--(0.12,0.13);\draw(0.18,0.13)--(0.3,0.13);\draw[line width=.02cm](0.13,0.165)--(0.17,0.0925);\draw[line width=.02cm](0.17,0.165)--(0.13,0.0925);\draw(0,0.065)--(0.3,0.065);\draw(0,0)--(0.3,0);\end{tikzpicture}
+
+
+
+
+
 % \begin{tikzpicture}\draw[thick](0,0)--(0.3,0);\end{tikzpicture}
 % \begin{tikzpicture}\draw[thick](0,0)--(0.13,0);\draw[thick](0.17,0)--(0.3,0);\end{tikzpicture}
 
