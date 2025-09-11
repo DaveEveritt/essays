@@ -4,4 +4,4 @@ That my perception, my simple vision, is unusual (by standards I would have used
 
 However, I have also noticed during this process that my dreams are becoming more like everyday experience. I think I have levelled the two areas—dreaming in the everyday, and recognising the commonplace in dreams. The waking world has thereby become richer and the dreaming world more accessible. The distinction becomes progressively less clear, and I wonder when it will find a level. Yet all I have done is remove the false distinction between various kinds of perception: to take the extraordinary out of the realm of the uncommon, to make it normal; not to suffer from amazement and surprise when everyday things become resonant. Simply to enjoy it and pass on. The resonance is always present, the variable is my awareness of it.
 
-(earlier than 18aug2006, but original date uncertain)
+(earlier than 18aug2006, original date uncertain)

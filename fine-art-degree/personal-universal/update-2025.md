@@ -12,7 +12,7 @@ comments: |
 
 > Nothing being more important than anything else, a man (sic) of knowledge chooses any act, and acts it out as if it matters to him. Its controlled folly makes him say that what he does matters and makes him act as if it did, and yet he knows that it doesn’t; so when he fulfills his acts he retreats in peace, and whether his acts were good or bad, or worked or didn’t, is in no way part of his concern.  —The character Don Juan in Carlos Castaneda, “A Separate Reality” (male pronouns retained)
 
-I will begin by stating a theme: The function of art in the finite world is to modify infinity by modifying the creations of infinite energy. (matter is a modification of energy—therefore so is art). I assume acceptance of:
+I will begin by stating a theme: The function of art in the finite world is to modify infinity by modifying the tangible output of infinite energy. (matter is a modification of energy—therefore so is art). I assume acceptance of:
 
 1. the existence of art, and
 2. the existence of some infinite source-energy of omnipresent nature within and working through all visible and non-visible forms, keeping them in constant motion-existence.

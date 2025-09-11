@@ -1,6 +1,6 @@
 # Purpose and Purposelessness, or Nothing Matters
 
-(After reading ‘Aristos’, John Fowles, p20, nos. 40, 45)
+(After reading John Fowles, ‘Aristos’, p20, nos. 40, 45)
 
 We invest meaning in a possibly purposeless, meaningless universe in the same way in which we see constellations in apparently neighbouring stars. In reality, these distant burning suns lie millions of light years apart and—from any other angle than ours here on earth—would form unrecognisable patterns. Identifying patterns is understandable; it helps us make sense of the sheer numbers, because familiar groups of stars can count as a single unit, but the patterns only exist for us. They’re not really out there, at least, not in the way we see them.
 

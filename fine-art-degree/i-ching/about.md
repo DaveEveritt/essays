@@ -1,3 +1,4 @@
 # Essays: I Ching
 
-About the essay
+Final year Fine Art essay, around 1974
+

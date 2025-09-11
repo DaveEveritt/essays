@@ -1,6 +1,6 @@
 # Essays
 
-To store essays I've written over many years on various topics (in contrast to academic papers).
+Essays I've written over many years on various topics (in contrast to academic papers).
 
 ## Contents
 

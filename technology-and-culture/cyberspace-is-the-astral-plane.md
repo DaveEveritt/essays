@@ -1,6 +1,6 @@
 # Cyberspace is the Astral Plane
 
-I just can't see cyberspace as anything but entirely *other*. A set of dimensions where you travel by thinking, where distance and time do not exist (and no, I don’t mean those 15-hour browsing sessions) and where connections are formed by association, not location or proximity.
+I just can’t see cyberspace as anything but entirely *other*. A set of dimensions where you travel by thinking, where distance and time do not exist (and no, I don’t mean those 15-hour browsing sessions) and where connections are formed by association, not location or proximity.
 
 The closest parallels I can find are in accounts of out-of-body experiences, or of disembodied life in classic occult literature like [A Dweller on Two Planets](http://www.sacred-texts.com/atl/dtp/index.htm) or [Life in the World Unseen](https://www.grace-kennedy.co.uk/ebooks/Anthony%20Borgia%20-%20Life%20In%20The%20World%20Unseen.pdf). The Theosophist’s *[astral plane](http://www.psychic101.com/astral-plane.html)*, a region supposed to exist at a higher frequency of vibration beyond the reach of our physical senses, is where much of this is held to take place—a realm where like attracts like, where nightmares, fantasies and ideals are multiplied through the collective power of all who are capable of imagining. Above all, the astral plane is a place of illusion, of entire landscapes created from our visions, and where connections are forged through common interest with no ethical or ideological restraint. Sound familiar?
 
