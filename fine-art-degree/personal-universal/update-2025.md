@@ -1,4 +1,4 @@
----
+<!-- ---
 title:    'From the Personal to the Universal'
 author:   Dave Everitt
 date:     11/09/2025
@@ -7,7 +7,7 @@ comments: |
   Originally written around 1973 for a Fine Art degree. 
   Transcribed by Fania and Dave Everitt.
 ...
-
+ -->
 # From the Personal to the Universal
 
 > Nothing being more important than anything else, a man (sic) of knowledge chooses any act, and acts it out as if it matters to him. Its controlled folly makes him say that what he does matters and makes him act as if it did, and yet he knows that it doesn’t; so when he fulfills his acts he retreats in peace, and whether his acts were good or bad, or worked or didn’t, is in no way part of his concern.  —The character Don Juan in Carlos Castaneda, “A Separate Reality” (male pronouns retained)
