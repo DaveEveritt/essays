@@ -143,9 +143,22 @@ Modern man, having reached a moral and intellectual impasse by discarding all th
 It is our duty as human beings to search, find and test that essence.
 
 
----
+## Bibliography
 
-## References
+- The 'I Ching' or 'Book of Changes' Translated by Richard Wilhelm, forwarded by Carl Jung.
+  The most thorough treatment to date. Also very sympathetic to the underlying purpose of the book.
+- 'The Book of Change' John Blofeld, forwarded by Lama Anagarika Govinda.
+  'Simplified' version, in that all the separate commentaries are brought under the headings of the specific hexagrams, rather than being divided into two like Wilhelm's translations. Contains further tables not included in Wilhelm's.
+- 'The Oracle of Change (How to Consult the I Ching)' Alfred Douglas.
+  Even simpler than Blofeld, but appears to stress different interpretations in places, as do most translations. Contains further tables.
+- The 'Tao Te Ching' (Lao Tzu) translated by D.C. Lau
+  Book containing a collection of Taoist sayings (or it can be considered as the scripture of Taoism, having reportedly been written by Lao Tzu, its founder.) It contains much allegory and in its translation, the allegory is taken literally by the translator (which does no harm to the text) in his introduction. It concerns discussion of the 'state' and is therefore held to be a manual on politics. The state and the people seem to me to be obvious representations of the body and man's habitation in general, with his reactions to it (the people). It certainly makes much more sense this way than if seen as a mere political manual, although its principles would serve as such, as well. It does not seem to be the character of Taoism to give detailed instructions of physical survival in the sense in which the translator sees it.
+- 'Zen Flesh, Zen Bones' compiled by Paul Reps and Nyogen Senzaki
+  Excellent collection of stories and a translation of a Sanskrit text, put forward as being of early Taoist origin.
+- 'The Secret of the Golden Flower' translated by Wilhelm, with an appendix by Jung.
+- 'Taoist Yoga' (Lu K'uan Yü). This and the above contain detailed instructions in Taoist meditation, concerning certain basic processes. There is much chaff, some wheat in both.
+
+---
 
 [^WuChi]: this is an intelligent guess.
 [^TaoTeChing]: 'Tao Te Ching' Ch. 1
@@ -165,18 +178,3 @@ It is our duty as human beings to search, find and test that essence.
 [^TaoTeChing5]: ibid. Ch. VII
 [^Wilhelm]: P.349 Wilhelm's translation of I Ching
 [^Blofeld]: Blofeld's translation p. 45 (quote from author)
-
-## Bibliography
-
-- The 'I Ching' or 'Book of Changes' Translated by Richard Wilhelm, forwarded by Carl Jung.
-  The most thorough treatment to date. Also very sympathetic to the underlying purpose of the book.
-- 'The Book of Change' John Blofeld, forwarded by Lama Anagarika Govinda.
-  'Simplified' version, in that all the separate commentaries are brought under the headings of the specific hexagrams, rather than being divided into two like Wilhelm's translations. Contains further tables not included in Wilhelm's.
-- 'The Oracle of Change (How to Consult the I Ching)' Alfred Douglas.
-  Even simpler than Blofeld, but appears to stress different interpretations in places, as do most translations. Contains further tables.
-- The 'Tao Te Ching' (Lao Tzu) translated by D.C. Lau
-  Book containing a collection of Taoist sayings (or it can be considered as the scripture of Taoism, having reportedly been written by Lao Tzu, its founder.) It contains much allegory and in its translation, the allegory is taken literally by the translator (which does no harm to the text) in his introduction. It concerns discussion of the 'state' and is therefore held to be a manual on politics. The state and the people seem to me to be obvious representations of the body and man's habitation in general, with his reactions to it (the people). It certainly makes much more sense this way than if seen as a mere political manual, although its principles would serve as such, as well. It does not seem to be the character of Taoism to give detailed instructions of physical survival in the sense in which the translator sees it.
-- 'Zen Flesh, Zen Bones' compiled by Paul Reps and Nyogen Senzaki
-  Excellent collection of stories and a translation of a Sanskrit text, put forward as being of early Taoist origin.
-- 'The Secret of the Golden Flower' translated by Wilhelm, with an appendix by Jung.
-- 'Taoist Yoga' (Lu K'uan Yü). This and the above contain detailed instructions in Taoist meditation, concerning certain basic processes. There is much chaff, some wheat in both.
