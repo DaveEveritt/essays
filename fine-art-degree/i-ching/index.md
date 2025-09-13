@@ -146,25 +146,26 @@ It is our duty as human beings to search, find and test that essence.
 ---
 
 
-- [^WuChi]: this is an intelligent guess.
-- [^TaoTeChing]: 'Tao Te Ching' Ch. 1
-- [^Te]: *Tê* 'virtue' Homophone meaning-to get. In Taoist usage = virtue of a thing (what it 'gets' from Tao) i.e. Tê is the nature of a thing, because it is in virtue of its 'te' that a thing is what it is. In such works as the 'Tao Te Ching', Te is used in its more conventional meaning, but still overlaps with the above. *Conventional meaning*: 'moral virtue', 'bounty', 'to be grateful', or 'to be conscious that others ought to be grateful to oneself'.
-- [^GoldFlow]: a Chinese manual on mediation. (See also: 'Taoist Yoga' by Lu K'uan Yü)
-- [^Kun]: 'weak' in the sense that although water is 'weak', it wears away rock.
-- [^Kan]: K'un is also assigned to winter for a reason too involved to explain here (K'an is the representative of K'un, sometimes [...text indecipherable...])
-- [^nuclear]: see Interpretation
-- [^oracle]: the exact processes are outlines in translations of the book.
-- [^treatise]: The main work in the I Ching. Included in Wilhelm's translation.
-- [^LamaGovinda]: Lama Anagarika Govinda (from Blofeld's translation)
-- [^LaoTzu]: 'Tao Te Ching' Ch. LXX
-- [^Lama2]: Lama Anagarika Govinda
-- [^TaoTeChing2]: 'Tao Te Ching' Ch. XXXIV
-- [^TaoTeChing3]: ibid. Ch. LXXVII
-- [^TaoTeChing4]: ibid. Ch. XCII
-- [^TaoTeChing5]: ibid. Ch. VII
-- [^Wilhelm]: P.349 Wilhelm's translation of I Ching
-- [^Blofeld]: Blofeld's translation p. 45 (quote from author)
+## References
 
+[^WuChi]: this is an intelligent guess.
+[^TaoTeChing]: 'Tao Te Ching' Ch. 1
+[^Te]: *Tê* 'virtue' Homophone meaning-to get. In Taoist usage = virtue of a thing (what it 'gets' from Tao) i.e. Tê is the nature of a thing, because it is in virtue of its 'te' that a thing is what it is. In such works as the 'Tao Te Ching', Te is used in its more conventional meaning, but still overlaps with the above. *Conventional meaning*: 'moral virtue', 'bounty', 'to be grateful', or 'to be conscious that others ought to be grateful to oneself'.
+[^GoldFlow]: a Chinese manual on mediation. (See also: 'Taoist Yoga' by Lu K'uan Yü)
+[^Kun]: 'weak' in the sense that although water is 'weak', it wears away rock.
+[^Kan]: K'un is also assigned to winter for a reason too involved to explain here (K'an is the representative of K'un, sometimes [...text indecipherable...])
+[^nuclear]: see Interpretation
+[^oracle]: the exact processes are outlines in translations of the book.
+[^treatise]: The main work in the I Ching. Included in Wilhelm's translation.
+[^LamaGovinda]: Lama Anagarika Govinda (from Blofeld's translation)
+[^LaoTzu]: 'Tao Te Ching' Ch. LXX
+[^Lama2]: Lama Anagarika Govinda
+[^TaoTeChing2]: 'Tao Te Ching' Ch. XXXIV
+[^TaoTeChing3]: ibid. Ch. LXXVII
+[^TaoTeChing4]: ibid. Ch. XCII
+[^TaoTeChing5]: ibid. Ch. VII
+[^Wilhelm]: P.349 Wilhelm's translation of I Ching
+[^Blofeld]: Blofeld's translation p. 45 (quote from author)
 
 
 ## Bibliography
