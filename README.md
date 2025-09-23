@@ -22,7 +22,13 @@ Essays I've written over many years on various topics (in contrast to academic p
 
 ---
 
-## Handy commands:
+## Pandoc compilation:
 
-- pandoc DOCUMENT_NAME.md -f markdown_mmd+yaml_metadata_block --pdf-engine=pdflatex --top-level-division=chapter -o DOCUMENT_NAME.pdf 
-- pandoc DOCUMENT_NAME.md -f markdown_mmd+yaml_metadata_block --pdf-engine=pdflatex -o DOCUMENT_NAME.pdf 
+- `pandoc DOCUMENT_NAME.md -f markdown_mmd+yaml_metadata_block --pdf-engine=pdflatex --top-level-division=chapter -o DOCUMENT_NAME.pdf`
+- `pandoc DOCUMENT_NAME.md -f markdown_mmd+yaml_metadata_block --pdf-engine=pdflatex -o DOCUMENT_NAME.pdf`
+- simple pdf: `pandoc index.md -f markdown --pdf-engine=xelatex -o OUTPUT_NAME.pdf`
+
+Better example with footnotes, using I Ching essay (AFTER making BACKUP of old file!):
+
+- `pandoc index.md -f markdown+footnotes -t latex --wrap=none --top-level-division=chapter -s -o iching.tex`
+- then: `xelatex iching`

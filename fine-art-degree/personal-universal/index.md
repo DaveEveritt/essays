@@ -1,5 +1,11 @@
 # From the Personal to the Universal
 
+This essay was about art in the light of influences from occult/mystical sources in the late 60s and early 70s, and how video and other approaches sought to break down the traditional role of art and the artist in society. Jarring male personal pronouns everywhere. For a recent review of the spiritual in art, see Jennifer Higgie (2022), “Artists and the Spirit World” (five episodes, [BBC Radio 3, “The Essay”](https://www.bbc.co.uk/sounds/brand/b006x3hl?page=18))
+
+---
+
+Author: D. Everitt (1973). Second year essay, Fine Art degree course
+
 > Nothing being more important than anything else, a man of knowledge chooses any act, and acts it out as if it matters to him. It’s controlled folly makes him say that what he does matters and makes him act as if it did, and yet he knows that it doesn’t; so when he fulfills his acts he retreats in peace, and whether his acts were good or bad, or worked or didn’t, is in no way part of his concern.  —The character Don Juan in Carlos Castaneda, “A Separate Reality”
 
 I will begin by stating a theme: The function of art in the finite world is to modify infinity, by modifying the creations of infinite energy. (matter is a modification of energy—therefore so is art). I assume acceptance of:
@@ -42,7 +48,7 @@ I conclude that to arrive at a state of art as life, man must either broaden or 
 <!--ART AND CATHARSIS-->
 Because of his compulsion to purify himself to attain balance, some artists are undergoing a catharsis—one example will illustrate. Penny Slinger (in ‘Art and Artists’, November 1973) uses her work to break down her personal ‘hangups’ in order to go ‘beyond’ them:
 
-> The only way to come to terms with existence is to be born again.—Penny Slinger (Art and Artists, NOv. 1973)
+> The only way to come to terms with existence is to be born again.—Penny Slinger (Art and Artists, November 1973)
 
 John MacGregor (in the same issue of Art and Artists) said:
 
