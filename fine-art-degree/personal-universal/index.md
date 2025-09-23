@@ -67,12 +67,12 @@ The artist must possess inner harmony himself, before he attempts to create and 
 ## Footnotes
 
 [^1]: [Fluxus](https://www.tate.org.uk/art/art-terms/f/fluxus) had no single unifying style. Artists used a range of media and processes adopting a ‘do-it-yourself’ attitude to creative activity, often staging random performances and using whatever materials were at hand to make art. Seeing themselves as an alternative to academic art and music, Fluxus was a democratic form of creativity open to anyone
-[^2]: [John MacGregor (1944-2019)](https://en.wikipedia.org/wiki/John_MacGregor_(artist))
-[^3]: [Jack Burnham (1931-2019)](https://act.mit.edu/2019/03/in-memoriam-jack-burnham-1931-2019-inaugural-cavs-fellow-1968-1970/), and American art critic and theorist who established the parameters of “systems” art—his term for work, emerging in the 1960s and ’70s, that was rooted in digital networks and natural structures.
-[^4]: [Penny Slinger](https://pennyslinger.com)
-[^5]: [Gordon Smith (1937-2023)](https://www.artpreservation.ca/2024/12/12/artist-spotlight-gordon-smith/)
-[^6]: [Bob Watts (1923-1988)](https://www.artpool.hu/Fluxus/Watts.html)
+[^2]: [John MacGregor (1944-2019), wikipedia.org](https://en.wikipedia.org/wiki/John_MacGregor_(artist))
+[^3]: [Jack Burnham (1931-2019), act.mit.edu](https://act.mit.edu/2019/03/in-memoriam-jack-burnham-1931-2019-inaugural-cavs-fellow-1968-1970/), and American art critic and theorist who established the parameters of “systems” art—his term for work, emerging in the 1960s and ’70s, that was rooted in digital networks and natural structures.
+[^4]: [Penny Slinger (pennyslinger.com)](https://pennyslinger.com)
+[^5]: [Gordon Smith (1937-2023), artpreservation.ca](https://www.artpreservation.ca/2024/12/12/artist-spotlight-gordon-smith/)
+[^6]: [Bob Watts (1923-1988), artpool.hu/Fluxus/](https://www.artpool.hu/Fluxus/Watts.html)
 [^7]: [Geoff Hedericks (1931-2018)](https://klausgallery.com/artist/the-estate-of-geoffrey-hendricks/)
-[^8]: [Nam June Paik (1932-2006)](https://www.paikstudios.com)
-[^9]: [Frank Gillette](https://www.frankgillette.com/biography)
-[^10]: [Juan Downey (1940-1993)](https://www.guggenheim.org/map/juan-downey)
+[^8]: [Nam June Paik (1932-2006), paikstudios.com](https://www.paikstudios.com)
+[^9]: [Frank Gillette (frankgillette.com/biography)](https://www.frankgillette.com/biography)
+[^10]: [Juan Downey (1940-1993), Guggenheim](https://www.guggenheim.org/map/juan-downey)
