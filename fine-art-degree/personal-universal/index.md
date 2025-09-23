@@ -1,8 +1,8 @@
-# From the Personal to the Universal
-
 This essay was about art in the light of influences from occult/mystical sources in the late 60s and early 70s, and how video and other approaches sought to break down the traditional role of art and the artist in society. Jarring male personal pronouns everywhere. For a recent review of the spiritual in art, see Jennifer Higgie (2022), “Artists and the Spirit World” (five episodes, [BBC Radio 3, “The Essay”](https://www.bbc.co.uk/sounds/brand/b006x3hl?page=18))
 
 ---
+
+# From the Personal to the Universal
 
 Author: D. Everitt (1973). Second year essay, Fine Art degree course
 
